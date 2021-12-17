@@ -3,7 +3,7 @@
 1. Vehicle Steering Dynamics (Runge-Kutta Methods): https://github.com/victor-kowalski-m/meccomp-ep1
 
 <center>
-<img src="https://user-images.githubusercontent.com/70666266/146541406-49025cc4-fd1b-49d6-bf8e-37e634e968c0.jpg" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/70666266/146541406-49025cc4-fd1b-49d6-bf8e-37e634e968c0.jpg" alt="drawing" width="300" style="text-align: center;"/>
 </center>
   
 2. Magnetic Levitation Train (Finite Difference Method): https://github.com/victor-kowalski-m/meccomp-ep2
