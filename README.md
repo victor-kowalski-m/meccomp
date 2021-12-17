@@ -1,6 +1,6 @@
 # Computational Mechanics simulations
 
-The work presented here is part of the undergraduate course "Computational Mechanics" (PMR3401) from the seventh semester of Mechatronics Engineering at Universidade de São Paulo.
+The work presented here is part of the undergraduate course "Computational Mechanics" (PMR3401) from the Mechatronics Engineering Degree at Universidade de São Paulo.
 
 You can find the following simulations in the correspondent repositories:
 
