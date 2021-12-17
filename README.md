@@ -1,6 +1,7 @@
 # Computational Mechanics simulations
 
 The work presented here is part of the undergraduate course "Computational Mechanics" (PMR3401) from the seventh semester of Mechatronics Engineering at Universidade de São Paulo.
+
 You can find the following simulations in the correspondent repositories:
 
 1. Steering Vehicle Dynamics (Runge-Kutta Methods): https://github.com/victor-kowalski-m/meccomp-ep1 <br><br><img src="https://user-images.githubusercontent.com/70666266/146541406-49025cc4-fd1b-49d6-bf8e-37e634e968c0.jpg" alt="drawing" width="250"/>
